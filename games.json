@@ -1,0 +1,10 @@
+{
+  "games": [
+    {
+      "title": "Test Game",
+      "description": "This is a test game!",
+      "thumbnail": "https://placehold.co/400x225/png",
+      "url": "https://gamejolt.com"
+    }
+  ]
+}
